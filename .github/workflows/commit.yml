@@ -12,8 +12,9 @@ on:
 # Define the jobs in the workflow
 jobs:
   build-and-test:
+    name: Test App
     runs-on: ubuntu-latest
-	timeout-minutes: 10
+    timeout-minutes: 10
 
     steps:
       # Checkout the code from the repository
