@@ -1,0 +1,39 @@
+name: Build and Test C# Project on commit
+
+# Run workflow on every push or pull request to the main branch
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+# Define the jobs in the workflow
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+	timeout-minutes: 10
+
+    steps:
+      # Checkout the code from the repository
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      # Setup .NET SDK
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: 8.0 # Use the version of .NET your project requires
+
+      # Restore dependencies
+      - name: Restore Dependencies
+        run: dotnet restore
+
+      # Build the project
+      - name: Build Project
+        run: dotnet build --no-restore --configuration Release
+
+      # Run unit tests
+      - name: Run Tests
+        run: dotnet test --no-build --verbosity normal

@@ -12,3 +12,4 @@ E:\Users\luca_\RiderProjects\Cs-test\Cs-test\obj\Debug\net8.0\refint\Cs-test.dll
 E:\Users\luca_\RiderProjects\Cs-test\Cs-test\obj\Debug\net8.0\Cs-test.pdb
 E:\Users\luca_\RiderProjects\Cs-test\Cs-test\obj\Debug\net8.0\Cs-test.genruntimeconfig.cache
 E:\Users\luca_\RiderProjects\Cs-test\Cs-test\obj\Debug\net8.0\ref\Cs-test.dll
+E:\Users\luca_\RiderProjects\Cs-test\Cs-test\obj\Debug\net8.0\Cs-test.sourcelink.json

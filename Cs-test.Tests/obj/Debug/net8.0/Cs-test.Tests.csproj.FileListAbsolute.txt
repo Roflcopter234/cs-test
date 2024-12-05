@@ -115,3 +115,4 @@ E:\Users\luca_\RiderProjects\Cs-test\Cs-test.Tests\obj\Debug\net8.0\refint\Cs-te
 E:\Users\luca_\RiderProjects\Cs-test\Cs-test.Tests\obj\Debug\net8.0\Cs-test.Tests.pdb
 E:\Users\luca_\RiderProjects\Cs-test\Cs-test.Tests\obj\Debug\net8.0\Cs-test.Tests.genruntimeconfig.cache
 E:\Users\luca_\RiderProjects\Cs-test\Cs-test.Tests\obj\Debug\net8.0\ref\Cs-test.Tests.dll
+E:\Users\luca_\RiderProjects\Cs-test\Cs-test.Tests\obj\Debug\net8.0\Cs-test.Tests.sourcelink.json
