@@ -1,0 +1,14 @@
+E:\Users\luca_\RiderProjects\Cs-test\Cs-test\bin\Debug\net8.0\Cs-test.exe
+E:\Users\luca_\RiderProjects\Cs-test\Cs-test\bin\Debug\net8.0\Cs-test.deps.json
+E:\Users\luca_\RiderProjects\Cs-test\Cs-test\bin\Debug\net8.0\Cs-test.runtimeconfig.json
+E:\Users\luca_\RiderProjects\Cs-test\Cs-test\bin\Debug\net8.0\Cs-test.dll
+E:\Users\luca_\RiderProjects\Cs-test\Cs-test\bin\Debug\net8.0\Cs-test.pdb
+E:\Users\luca_\RiderProjects\Cs-test\Cs-test\obj\Debug\net8.0\Cs-test.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\luca_\RiderProjects\Cs-test\Cs-test\obj\Debug\net8.0\Cs-test.AssemblyInfoInputs.cache
+E:\Users\luca_\RiderProjects\Cs-test\Cs-test\obj\Debug\net8.0\Cs-test.AssemblyInfo.cs
+E:\Users\luca_\RiderProjects\Cs-test\Cs-test\obj\Debug\net8.0\Cs-test.csproj.CoreCompileInputs.cache
+E:\Users\luca_\RiderProjects\Cs-test\Cs-test\obj\Debug\net8.0\Cs-test.dll
+E:\Users\luca_\RiderProjects\Cs-test\Cs-test\obj\Debug\net8.0\refint\Cs-test.dll
+E:\Users\luca_\RiderProjects\Cs-test\Cs-test\obj\Debug\net8.0\Cs-test.pdb
+E:\Users\luca_\RiderProjects\Cs-test\Cs-test\obj\Debug\net8.0\Cs-test.genruntimeconfig.cache
+E:\Users\luca_\RiderProjects\Cs-test\Cs-test\obj\Debug\net8.0\ref\Cs-test.dll
